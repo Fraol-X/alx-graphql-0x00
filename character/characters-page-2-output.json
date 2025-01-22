@@ -1,0 +1,19 @@
+{
+    "data": {
+      "characters": [
+        {
+          "id": "3",
+          "name": "Summer Smith",
+          "status": "Alive",
+          "image": "https://example.com/summer.png"
+        },
+        {
+          "id": "4",
+          "name": "Beth Smith",
+          "status": "Alive",
+          "image": "https://example.com/beth.png"
+        }
+      ]
+    }
+  }
+  

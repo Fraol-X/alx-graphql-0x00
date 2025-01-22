@@ -1,0 +1,19 @@
+{
+    "data": {
+      "characters": [
+        {
+          "id": "5",
+          "name": "Jerry Smith",
+          "status": "Alive",
+          "image": "https://example.com/jerry.png"
+        },
+        {
+          "id": "6",
+          "name": "Birdperson",
+          "status": "Alive",
+          "image": "https://example.com/birdperson.png"
+        }
+      ]
+    }
+  }
+  
